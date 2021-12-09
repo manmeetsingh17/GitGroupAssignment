@@ -1,0 +1,9 @@
+https://www.luv2code.com/2012/06/30/unit-testing-a-password-utility/
+
+https://www.petrikainulainen.net/programming/testing/writing-clean-tests-to-verify-or-not-to-verify/
+
+https://www.w3resource.com/scala-exercises/list/scala-list-exercise-17.php
+
+https://www.javacodemonk.com/check-if-the-given-string-is-palindrome-166b3d2d
+
+https://ivarconr.wordpress.com/2012/01/26/tdd-by-example-factorial/
